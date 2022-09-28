@@ -1,0 +1,17 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "Heroku-json-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run server"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "heroku",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
